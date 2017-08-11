@@ -1,2 +1,6 @@
 # chikbook.github.io
-www.chikbook.com
+
+Welcome to Chikbook - The Student Memory
+
+[Link here](http://www.chikbook.com)
+
